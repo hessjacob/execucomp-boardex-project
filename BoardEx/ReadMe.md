@@ -6,7 +6,8 @@
 * The sample is of all options awarded between 1999 and 2020.
 * All options expire before 2021.
 
-# Sample 3 (still some loose ends to tie up)
+# Sample 3 
 * Merged BoardEx and ExecuComp datasets -- 15,000+ executives
 * Can see the aggregate number of options executive spent each year.
-* Options awarded beyond 2021.
+* Options vesting beyond 2021 included.
+* I don't look at the "spread out" and "median" option exercising assumptions from the previous samples.
